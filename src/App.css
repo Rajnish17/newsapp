@@ -1,0 +1,24 @@
+
+
+
+.heading{
+  height:600px ;
+  background-image: url("https://i0.wp.com/therealnews.com/wp-content/uploads/2023/03/Four-Seasons-PicJPEGH-scaled.jpg?resize=1200%2C675&ssl=1");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  
+}
+.text{
+  display: flex;
+  position: absolute;
+  color: aliceblue;
+  width: 800px;
+  
+}
+.head-text{
+    padding: 200px;
+   
+  }
+
+  

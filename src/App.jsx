@@ -1,16 +1,15 @@
 import React from "react";
-import Book from "./Component/Book";
-import Nav from "./Component/Nav";
-
+import Head from "./Components/Head";
+import Home from "./Components/Home";
+import Nav from "./Components/Nav";
 
 const App = () => {
   return (
     <>
-
-      <Nav/>
-      <Book/>
+    <Nav/>
+    <Head/>
+      <Home />
     </>
-
   );
 };
 
